@@ -1,0 +1,26 @@
+C:\Users\emilio.espiritu\source\repos\LoginApp\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\emilio.espiritu\source\repos\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\emilio.espiritu\source\repos\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\emilio.espiritu\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.AssemblyReference.cache
+C:\Users\emilio.espiritu\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.Form1.resources
+C:\Users\emilio.espiritu\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.FormEmpleados.resources
+C:\Users\emilio.espiritu\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.FormPrincipal.resources
+C:\Users\emilio.espiritu\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+C:\Users\emilio.espiritu\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.cache
+C:\Users\emilio.espiritu\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\emilio.espiritu\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\emilio.espiritu\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.pdb
+C:\Users\emilio.espiritu\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.exe.config
+C:\Users\e.espiritu1\Desktop\LoginApp - Copy\LoginApp - Copy\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\e.espiritu1\Desktop\LoginApp - Copy\LoginApp - Copy\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\e.espiritu1\Desktop\LoginApp - Copy\LoginApp - Copy\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\e.espiritu1\Desktop\LoginApp - Copy\LoginApp - Copy\LoginApp\obj\Debug\LoginApp.csproj.AssemblyReference.cache
+C:\Users\e.espiritu1\Desktop\LoginApp - Copy\LoginApp - Copy\LoginApp\obj\Debug\LoginApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\e.espiritu1\Desktop\LoginApp - Copy\LoginApp - Copy\LoginApp\obj\Debug\LoginApp.Form1.resources
+C:\Users\e.espiritu1\Desktop\LoginApp - Copy\LoginApp - Copy\LoginApp\obj\Debug\LoginApp.FormEmpleados.resources
+C:\Users\e.espiritu1\Desktop\LoginApp - Copy\LoginApp - Copy\LoginApp\obj\Debug\LoginApp.FormPrincipal.resources
+C:\Users\e.espiritu1\Desktop\LoginApp - Copy\LoginApp - Copy\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+C:\Users\e.espiritu1\Desktop\LoginApp - Copy\LoginApp - Copy\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.cache
+C:\Users\e.espiritu1\Desktop\LoginApp - Copy\LoginApp - Copy\LoginApp\obj\Debug\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\e.espiritu1\Desktop\LoginApp - Copy\LoginApp - Copy\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\e.espiritu1\Desktop\LoginApp - Copy\LoginApp - Copy\LoginApp\obj\Debug\LoginApp.pdb
